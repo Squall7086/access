@@ -40,4 +40,5 @@
 #$ Squall Lifetime 103.123.238.5
 #$ Squall Lifetime 167.71.203.0
 #$ Squall Superscript 124.217.225.133
+#$ Squall NoExpired 124.217.247.100
 
