@@ -43,5 +43,5 @@
 #$ Squall NoExpired 124.217.247.100
 #$ Squall gbcloud 103.186.117.49
 #$ Squall gbcloud 103.186.117.192
-#$ Squall gbc01 103.186.117.99
+#$ Squall gbc01 103.198.26.250
 
