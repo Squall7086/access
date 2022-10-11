@@ -45,4 +45,7 @@
 #$ Squall gbcloud 103.186.117.192
 #$ Squall gbc01 103.198.26.250
 #$ Squall gbc02 103.198.26.215
+#$ Squall gbc04 103.186.117.86
+#$ Squall gbc03 103.186.117.145
+
 
